@@ -1,0 +1,32 @@
+.body-home{
+    display: flex;
+}
+.seid-bar{
+    width: 400px;
+    background-color: #f4f4f4 ;
+    height: 100vh;
+    position: fixed;
+    
+}
+.main-content{
+    margin-left: 400px;
+    width: calc(100% - 400px);
+}
+.header, .outlet, .footer {
+    padding: 20px;
+    background-color: #fff; 
+    margin-bottom: 10px;
+}
+.seidbar-brand{
+    display: flex;
+    flex-direction: column;
+   
+    padding: 10px;
+    margin: auto;
+    margin-top: 20px;
+    width: 300px;
+    height: 250px;
+    background-color: black;
+    align-items: center; /* agar chizi dar in div hast, anha ham vasat mishan */
+    justify-content: center;
+}
