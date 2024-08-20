@@ -8,7 +8,7 @@ const Home = () => {
                 <div className='header'>
                     <h1>header</h1>
                 </div>
-{}                <div className='outlet'>
+                <div className='outlet'>
                     <h1>outlt</h1>
                 </div>
                 <div className='footer'>
